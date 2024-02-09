@@ -1,0 +1,14 @@
+.box{
+    border: 3px groove red;
+    padding: 70px;
+    max-width: 100px;
+    margin-left: 900px;
+    border-radius: 100px 100px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.item{
+    border: 5px solid green;
+    border-radius: 20px;
+}
